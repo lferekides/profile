@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+}
+
+h1 {
+	font-size: 40px;
+	font-family: Courier;
+}
+
+h1, h2 {
+	color: #54329475;
+}
+
+h2 {
+	font-size: 28px;
+}
+
+img {
+	border-radius: 50%;
+}
+
+p {
+	font-size: 22px;
+}
+
+ul {
+	list-style: none;
+	padding: 0
+}
